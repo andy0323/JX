@@ -1,14 +1,19 @@
-# Andy Jin 学习随笔
+# andy Jin
 
-## iOS
+## About my star
 
+### Xcode 打包
 
+webfrogs / xcode_shell
 
-## nodejs
+### 数据库
 
-```javascript
-  var ihubo = {
-    nickName  : "草依山",
-    site : "http://jser.me"
-  }
-```
+ccgus / fmdb
+
+### angularjs
+
+streakq / angular-guide
+
+### iOS
+
+streakq / QBaseFramework-iOS
