@@ -1,5 +1,9 @@
 # andy Jin
 
+## tool
+
+**git使用说明**: `http://visayafan.com/others/o/git.html`
+
 ## About my star
 
 ### Xcode 打包
@@ -18,4 +22,4 @@ streakq / angular-guide
 
 streakq / QBaseFramework-iOS
 
-### 	签到
+### 	
