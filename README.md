@@ -22,5 +22,4 @@ streakq / angular-guide
 
 streakq / QBaseFramework-iOS
 
-### 	1
-
+### 	
