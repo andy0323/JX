@@ -2,7 +2,7 @@
 
 ## 准备工作
 
-1. 下载模板 `git clone git@github.com:kstenerud/iOS-Universal-Framework.git	
+1. 下载模板 `git clone git@github.com:kstenerud/iOS-Universal-Framework.git`
 
 2. 安装模板 （直接运行目录**Fake Framework**下的`install.sh`）
 
