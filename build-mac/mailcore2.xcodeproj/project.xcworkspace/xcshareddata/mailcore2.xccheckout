@@ -14,6 +14,8 @@
 		<string>github.com:andy0323/JXMail.git</string>
 		<key>7ACF23A507BCFA5964C32B48177971421D05CCCE</key>
 		<string>github.com:MailCore/mailcore2.git</string>
+		<key>D764F517DC0216EED9CB944212A386775A9C0BA6</key>
+		<string>github.com:andy0323/JX.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>build-mac/mailcore2.xcodeproj</string>
@@ -22,14 +24,16 @@
 		<key>1B8CAD78BC142D1F56715DD6324ABCF165153AF2</key>
 		<string>../../../..</string>
 		<key>7ACF23A507BCFA5964C32B48177971421D05CCCE</key>
+		<string>../../../../mailcore2</string>
+		<key>D764F517DC0216EED9CB944212A386775A9C0BA6</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:MailCore/mailcore2.git</string>
+	<string>github.com:andy0323/JX.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7ACF23A507BCFA5964C32B48177971421D05CCCE</string>
+	<string>D764F517DC0216EED9CB944212A386775A9C0BA6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -39,6 +43,14 @@
 			<string>1B8CAD78BC142D1F56715DD6324ABCF165153AF2</string>
 			<key>IDESourceControlWCCName</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D764F517DC0216EED9CB944212A386775A9C0BA6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JX</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
